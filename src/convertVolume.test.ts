@@ -1,4 +1,4 @@
-import { convertVolume } from './VolumeConverter' 
+import { convertVolume } from './VolumeConverter'
 
 describe('convertVolume', () => {
   test('converts liters to gallons', () => {
